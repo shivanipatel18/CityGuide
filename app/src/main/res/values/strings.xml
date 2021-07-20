@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CityGuide</string>
+
+    <string-array name="features">
+        <item>Healthcare</item>
+        <item>Education</item>
+        <item>Jobs</item>
+        <item>Household</item>
+        <item>Recharge</item>
+        <item>Laundary</item>
+        <item>Map</item>
+        <item>Beauty and Cosmetics</item>
+        <item>Hotels and Restaurants</item>
+        <item>Ticket Booking</item>
+        <item>Ola or Uber</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="healthcare_question_one">Could my cell phone kill me?</string>
+
+
+    <string name="facebook_app_id">575622179281672</string>
+
+
+</resources>

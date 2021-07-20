@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/spinner"
+        android:icon="@drawable/drop_down"
+        android:title="DropDown"
+        app:showAsAction="always">
+
+
+
+<menu>
+        <item
+            android:id="@+id/Bangalore"
+            android:title="Bangalore"/>
+
+    <item
+        android:id="@+id/Mumbai"
+        android:title="Mumbai"/>
+    <item
+        android:id="@+id/Pune"
+        android:title="Pune"/>
+
+    <item
+        android:id="@+id/Kolkata"
+        android:title="Kolkata"/>
+    <item
+        android:id="@+id/Chennai"
+        android:title="Chennai"/>
+    <item
+        android:id="@+id/Delhi"
+        android:title="Delhi"/>
+    <item
+        android:id="@+id/Jaipur"
+        android:title="Jaipur"/>
+    <item
+        android:id="@+id/Bhopal"
+        android:title="Bhopal"/>
+    <item
+        android:id="@+id/Raipur"
+        android:title="Raipur"/>
+    <item
+        android:id="@+id/Patna"
+        android:title="Patna"/>
+</menu>
+
+    </item>
+
+</menu>
